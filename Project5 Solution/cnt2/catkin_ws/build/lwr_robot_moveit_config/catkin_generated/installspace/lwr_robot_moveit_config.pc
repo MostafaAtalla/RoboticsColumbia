@@ -1,0 +1,8 @@
+prefix=/home/ccc_45345959f5_44723/asn51553_5/asn51554_1/work/catkin_ws/install
+
+Name: lwr_robot_moveit_config
+Description: Description of lwr_robot_moveit_config
+Version: 0.2.0
+Cflags: 
+Libs: -L/home/ccc_45345959f5_44723/asn51553_5/asn51554_1/work/catkin_ws/install/lib 
+Requires: 

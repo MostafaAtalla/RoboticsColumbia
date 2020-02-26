@@ -1,0 +1,8 @@
+
+[Executed at: Sun Nov 24 2:25:46 PST 2019]
+
+Python version found
+Simple Obstacle: PASSED
+Medium Obstacle: PASSED
+Hard Obstacle: COLLISION
+

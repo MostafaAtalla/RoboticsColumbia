@@ -1,0 +1,2 @@
+lwr_robot/lwr_defs:lwr_robot_moveit_config:motion_planning:robot_sim
+-DCATKIN_DEVEL_PREFIX=/home/ccc_45345959f5_44723/asn51553_5/asn51554_1/work/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ccc_45345959f5_44723/asn51553_5/asn51554_1/work/catkin_ws/install -G Unix Makefiles
