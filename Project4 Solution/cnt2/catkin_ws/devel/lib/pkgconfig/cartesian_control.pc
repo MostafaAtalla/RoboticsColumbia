@@ -1,0 +1,8 @@
+prefix=/home/ccc_45345959f5_44723/asn51551_4/asn51552_1/work/catkin_ws/devel
+
+Name: cartesian_control
+Description: Description of cartesian_control
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ccc_45345959f5_44723/asn51551_4/asn51552_1/work/catkin_ws/devel/lib 
+Requires: interactive_markers rospy sensor_msgs tf urdfdom_py
